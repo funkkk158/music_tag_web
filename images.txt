@@ -1,1 +1,1 @@
-zerotier/zerotier
+zerotier/zerotier:latest
